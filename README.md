@@ -21,6 +21,7 @@ This repository contains code for analyzing district school data. It utilizes th
     • Found that schools with higher budgets did not yield better test results.
     • Smaller and medium-sized schools outperformed larger-sized schools in passing math performances.
     • Charter schools generally outperformed public district schools across all metrics. Please refer to the code files for more details on each task and the specific data used for analysis.
+
 ##Prerequisites 
 To run the code in this project, you need the following dependencies: 
 • Python (version 3.0 or higher) 
