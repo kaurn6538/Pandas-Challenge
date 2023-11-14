@@ -17,7 +17,7 @@ This repository contains code for analyzing district school data. It utilizes th
 14. Calculated the math and reading scores by grade.
 15. Categorizing spending.
 16. Used the cut function to categorize spending into different ranges.
-17. Conclusions.
+# Conclusions.
     • Found that schools with higher budgets did not yield better test results.
     • Smaller and medium-sized schools outperformed larger-sized schools in passing math performances.
     • Charter schools generally outperformed public district schools across all metrics. Please refer to the code files for more details on each task and the specific data used for analysis.
