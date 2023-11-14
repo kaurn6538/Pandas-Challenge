@@ -1,5 +1,5 @@
 # Pandas-Challenge
-# District School Data Analysis 
+# District School/Students Data Analysis 
 This repository contains code for analyzing district school data. It utilizes the pandas library in Python to import, manipulate, and analyze the data. The following tasks were performed in this project:
 1. Importing data and basic data exploration using pandas. 
 2. Imported necessary libraries and the dataset. 
@@ -29,8 +29,11 @@ This repository contains code for analyzing district school data. It utilizes th
 # Usage 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Open the code files using a Python IDE or text editor.
+3. Open the code files using a Jupyter Notebook .
 4. Install the necessary dependencies if not already installed.
 5. Run the code to perform the analysis and generate the results.
- Feel free to modify the code or dataset as per your needs and explore further insights from the district school data.
-If you have any questions or suggestions, please feel free to contact me. Happy analyzing!
+
+eel free to modify the code or dataset as per your needs and explore further insights from the district school data.
+If you have any questions or suggestions, please feel free to contact me.
+
+#Happy analyzing!
