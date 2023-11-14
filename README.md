@@ -34,6 +34,11 @@ This repository contains code for analyzing district school data. It utilizes th
 5. Run the code to perform the analysis and generate the results.
 
 eel free to modify the code or dataset as per your needs and explore further insights from the district school data.
-If you have any questions or suggestions, please feel free to contact me.
+## Contributing Contributions to this project are welcome. 
+If you have any suggestions or ideas for improvement, feel free to [submit an issue](https://github.com/kaurn6538/VBA-challenge/pulse) or [create a pull request](https://github.com/kaurn6538/VBA-challenge/pulls). 
+
+
+## Contact For any questions or inquiries, please contact the project author: [Navdeep Kaur](https://github.com/kaurn6538)
+
 
 #Happy analyzing!
