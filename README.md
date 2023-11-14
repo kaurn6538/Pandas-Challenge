@@ -1,5 +1,5 @@
 # Pandas-Challenge
-# District School/Students Data Analysis 
+## District School/Students Data Analysis 
 This repository contains code for analyzing district school data. It utilizes the pandas library in Python to import, manipulate, and analyze the data. The following tasks were performed in this project:
 1. Importing data and basic data exploration using pandas. 
 2. Imported necessary libraries and the dataset. 
@@ -17,16 +17,17 @@ This repository contains code for analyzing district school data. It utilizes th
 14. Calculated the math and reading scores by grade.
 15. Categorizing spending.
 16. Used the cut function to categorize spending into different ranges.
-# Conclusions.
+## Conclusions.
     • Found that schools with higher budgets did not yield better test results.
     • Smaller and medium-sized schools outperformed larger-sized schools in passing math performances.
     • Charter schools generally outperformed public district schools across all metrics. Please refer to the code files for more details on each task and the specific data used for analysis.
-# Prerequisites To run the code in this project, you need the following dependencies: 
+##Prerequisites 
+To run the code in this project, you need the following dependencies: 
 • Python (version 3.0 or higher) 
 • Pandas library 
 • NumPy library (if not already installed with pandas) 
-# Please ensure that you have these dependencies installed before running the code. 
-# Usage 
+## Please ensure that you have these dependencies installed before running the code. 
+## Usage 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Open the code files using a Jupyter Notebook .
