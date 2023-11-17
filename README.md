@@ -1,46 +1,56 @@
-# Pandas-Challenge
-## District School/Students Data Analysis 
-This repository contains code for analyzing district school data. It utilizes the pandas library in Python to import, manipulate, and analyze the data. The following tasks were performed in this project:
-1. Importing data and basic data exploration using pandas. 
-2. Imported necessary libraries and the dataset. 
-3. Used the len function to calculate the total number of schools and students. 
-4. Calculating average scores in math and reading using the mean function in pandas.
-5. Created a dataframe from the results. 
-6. Calculated the average scores in math and reading. 
-7. Filtering students who passed math and reading. 
-8. Created separate filtered options to get the students who passed math and reading.
-9. Calculating pass rates. 
-10. Calculated the percentage of students who passed math and reading. 
-11. Sorting schools by overall rating. 
-12. Used the sort function to sort schools based on overall rating in ascending and descending order. 
-13. Analyzing scores by grade. 
-14. Calculated the math and reading scores by grade.
-15. Categorizing spending.
-16. Used the cut function to categorize spending into different ranges.
-## Conclusions.
-    • Found that schools with higher budgets did not yield better test results.
-    • Smaller and medium-sized schools outperformed larger-sized schools in passing math performances.
-    • Charter schools generally outperformed public district schools across all metrics. Please refer to the code files for more details on each task and the specific data used for analysis.
 
-## Prerequisites 
-To run the code in this project, you need the following dependencies: 
-• Python (version 3.0 or higher) 
-• Pandas library 
-• NumPy library (if not already installed with pandas) 
-## Please ensure that you have these dependencies installed before running the code. 
-## Usage 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Open the code files using a Jupyter Notebook .
-4. Install the necessary dependencies if not already installed.
-5. Run the code to perform the analysis and generate the results.
+Pandas-Challenge
+Part 1 - Local Government Area (LGA) Summary
+This repository contains the code to perform necessary calculations and create a high-level snapshot of the local government area's key metrics for all students and schools within an LGA.
 
-eel free to modify the code or dataset as per your needs and explore further insights from the district school data.
-## Contributing Contributions to this project are welcome. 
-If you have any suggestions or ideas for improvement, feel free to [submit an issue](https://github.com/kaurn6538/VBA-challenge/pulse) or [create a pull request](https://github.com/kaurn6538/VBA-challenge/pulls). 
+The following metrics are included:
 
+Total number of unique schools
+Total number of students
+Total budget
+Average math’s score
+Average reading score
+% passing math’s (the percentage of students who passed math’s)
+% passing reading (the percentage of students who passed reading)
+% overall passing (the percentage of students who passed math’s AND reading)
+Data Source
+The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
 
-## Contact For any questions or inquiries, please contact the project author: [Navdeep Kaur](https://github.com/kaurn6538)
+Getting Started
+To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook within the PyCitySchools folder. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrame.
+
+Requirements
+The analysis requires the following libraries:
+
+pandas
+numpy
+Part 2 - School Summary and Analysis
+This repository contains the code to perform necessary calculations and create DataFrames that summaries key metrics about each school and their student's performance.
+
+Data Source
+The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
+
+Getting Started
+To run the analysis, clone this repository and run the PyCitySchool_Analysis_AG.ipynb notebook. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrames.
+
+Requirements
+The analysis requires the following libraries:
+
+pandas
+numpy
+Results
+The analysis produces the following DataFrames:
+
+The School Summary is a DataFrame that summarizes key metrics for each school, including the school's name, type, number of students, school budget, per student budget, average math and reading scores, and the percentage of students passing math, reading, and overall.
+Top-Performing Schools: A DataFrame of the top 5 performing schools, sorted by % overall passing.
+Bottom-Performing Schools: A DataFrame of the bottom 5 performing schools, sorted by % overall passing.
+Math Scores by Year: A DataFrame that lists the average math score for students of each year level (9, 10, 11, 12) at each school.
+Reading Scores by Year: A DataFrame that lists the average reading score for students of each year level (9, 10, 11, 12) at each school.
+Scores by School Spending: A table that breaks down school performance based on average spending ranges (per student), including the average math, and reading scores, students passing math, passing reading, and passing overall.
+Scores by School Size: A table that breaks down school performance based on total students, including the average math, and reading scores, percentage of students passing math, passing reading, and passing overall.
+Scores by School Type: A table that breaks down school performance based on total students, including the average math, and reading scores, percentage of students passing math, passing reading, and passing overall.
+Analysis Findings
+The repository also contains a PDF file titles "PyCitySchools_Findings" that highlights the findings and conclusions that can be drawn from our analysis.
 
 
 #Happy analyzing!
