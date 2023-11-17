@@ -1,9 +1,9 @@
 
-Pandas-Challenge
-Part 1 - Local Government Area (LGA) Summary
+## Pandas-Challenge
+# Part 1 - Local Government Area (LGA) Summary
 This repository contains the code to perform necessary calculations and create a high-level snapshot of the local government area's key metrics for all students and schools within an LGA.
 
-The following metrics are included:
+## The following metrics are included:
 
 Total number of unique schools
 Total number of students
@@ -16,24 +16,24 @@ Average reading score
 Data Source
 The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
 
-Getting Started
+## Getting Started
 To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook within the PyCitySchools folder. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrame.
 
-Requirements
+## Requirements
 The analysis requires the following libraries:
 
 pandas
 numpy
-Part 2 - School Summary and Analysis
+## Part 2 - School Summary and Analysis
 This repository contains the code to perform necessary calculations and create DataFrames that summaries key metrics about each school and their student's performance.
 
-Data Source
+## Data Source
 The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
 
-Getting Started
+## Getting Started
 To run the analysis, clone this repository and run the PyCitySchool_Analysis_AG.ipynb notebook. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrames.
 
-Requirements
+## Requirements
 The analysis requires the following libraries:
 
 pandas
