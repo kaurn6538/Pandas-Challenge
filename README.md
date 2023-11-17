@@ -5,16 +5,17 @@ This repository contains the code to perform necessary calculations and create a
 
 ## The following metrics are included:
 
-1.Total number of unique schools
-2.Total number of students
-3.Total budget
-4.Average math’s score
-5.Average reading score
-6.% passing math’s (the percentage of students who passed math’s)
-7.% passing reading (the percentage of students who passed reading)
-8.% overall passing (the percentage of students who passed math’s AND reading)
+1. Total number of unique schools
+2. Total number of students
+3. Total budget
+4. Average math’s score
+5. Average reading score
+6. % passing math’s (the percentage of students who passed math’s)
+7. % passing reading (the percentage of students who passed reading)
+8. % overall passing (the percentage of students who passed math’s AND reading)
+
 ## Data Source
-The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under PyCitySchools/Resources.
+The data for this analysis comes from a dataset of student and school information. The dataset includes information on each student's math and reading scores, as well as information on each school's budget and location. The data set can be found in this repository under Resources.
 
 ## Getting Started
 To run the analysis, clone this repository and run the PyCitySchools_AnalysisCode-Final.ipynb notebook within the PyCitySchools folder. The notebook contains the necessary code to read in the data, perform the calculations, and create the summary DataFrame.
