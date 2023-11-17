@@ -1,6 +1,6 @@
 
 ## Pandas-Challenge
-# Part 1 - Local Government Area (LGA) Summary
+## Part 1 - Local Government Area (LGA) Summary
 This repository contains the code to perform necessary calculations and create a high-level snapshot of the local government area's key metrics for all students and schools within an LGA.
 
 ## The following metrics are included:
